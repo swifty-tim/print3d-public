@@ -2,5 +2,9 @@
  {
   "title": "Why can I not login to all services?",
   "body": "Some services does not provide access, if they make this available then we will add the support."
+ },
+ {
+  "title": "Why can I not like or comment on some models?",
+  "body": "Only printables and thingiverse are currently supported due to other services limitation."
  }
 ]
